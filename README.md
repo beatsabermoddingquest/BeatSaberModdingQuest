@@ -1,6 +1,13 @@
 # BeatSaberModdingQuest
 Tutorials on how to mod Beat Saber on quest!
 
+# Table Of Contents
+1. Installing\
+2. Modding\
+3. Custom Resources(Sabers,platforms,trails,etc)
+
+
+# INSTALLATION
 
 # Requirements
 
@@ -60,7 +67,7 @@ Scroll to Apk Backups, and choose the circle next to the date of the backup(it s
 ##### Downloading
 
 For the latest and greatest build for BMBF, download it from here: bmbf.dev/nightly \
-For the stable build of BeatOn, download it from here: https://github.com/sidequestlegend/BeatOn/releases/tag/latest\
+For the stable build of BeatOn, download it from here: https://github.com/sidequestlegend/BeatOn/releases/tag/latest
 Download the latest build. Look around the whole screen if you cant find it. \
 After that's done, extract the contents of the zip into your downloads.\
 
@@ -86,6 +93,54 @@ After installing, it should start BMBF/BeatOn, and you will be in the main menu.
 Choose Start Beat Saber at the top right. If Beat Saber wants access, allow it.\
 
 ###### If it loads successfully, you have completely installed BMBF/BeatOn! Congrats!
+
+
+# Modding
+
+Welcome to the modding section! We are going to see how to mod BMBF/BeatOn!
+
+# PreRequirements
+1. You will need a computer\
+2. Internet\
+3. Oculus Quest w/ BMBF/BeatOn BeatSaber\
+4. A mod zip file(There are some here, check out the WorkingMods section)
+
+# Connect to your Oculus Quest
+
+###### Make sure before starting to mod, you have launched the BMBF/BeatOn BeatSaber at least once
+
+Plug your headset into the computer, and start SideQuest. At the top of SideQuest it should say IP: XXX.XXX.X.XX. You need to remember this.
+
+If it says 'Not Found', connect your headset to WiFi.
+
+Launch the BMBF/BeatOn app, and take off the headset. Go back to the computer.
+
+Opening a browser, navigate NOT to a .com website, but to the IP you got from SideQuest, adding :50000 at the end. Example: 192.168.1.55:50000
+
+Instead of failing, it will load the dashboard, except with a Upload section.
+
+Drag and drop or select the Mod Zip into the Upload section. DO NOT WORRY IF IT SAYS NOT COMPATIBLE.
+
+If it says Failed to process, raise an issue concerning the file.
+
+Press Sync to BeatSaber in the top right.
+
+After syncing, if you go back to your headset and into the Mods section, it will show a new mod.
+
+If it does not, retry or check Troubleshooting.
+
+You can do this on the computer or Quest, but to enable the mod, if it says Not Compatible, you need to goto the Mods section and tick the slider. Press Enable when the dialog appears
+
+Sync to BeatSaber again, then you can launch the app.
+
+It should now have your mod installed. Amazing work!
+
+
+
+
+
+
+
 
 
 
