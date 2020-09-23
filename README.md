@@ -139,9 +139,26 @@ It should now have your mod installed. Amazing work!
 
 
 
+# Skin Installation
+
+Most used. There are not many mods for the Quest(at least from what I can see).
 
 
+In reality, it is basically the same as installing mods. They even come in same zip.
 
+## Easy installing skins
+
+This will not work with QSabers, and if something fails to enable, press the back arrow at the bottom.
+
+This works with most walls and blocks. If something fails to process, you can most likely scrap it, as it is for PC version of BeatSaber.
+
+Repeat mod installation process, except you can skip the SideQuest install part. Most likely, if you start typing the first three numbers, it will autofill it for you.
+
+Done!
+
+## Installing QSabers
+
+QSabers are installed by installing the quest CustomSabers mod. I will include a link
 
 
 
