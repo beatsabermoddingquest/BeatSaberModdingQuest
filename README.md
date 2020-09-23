@@ -1,9 +1,14 @@
 # BeatSaberModdingQuest
 Tutorials on how to mod Beat Saber on quest!
 
+## I am including RedBrumbler's BMBF Repo.
+## It is a amazing source of every single skin you could ever want.
+## Thanks to RedBrumbler.
+
+
 # Table Of Contents
-1. Installing\
-2. Modding\
+1. Installing
+2. Modding
 3. Custom Resources(Sabers,platforms,trails,etc)
 
 
@@ -50,9 +55,6 @@ We will be providing both BMBF and BeatOn guides.\
 
 
 
-## Install Mods
-
-Good choice!
 
 ##### Backing Up(Optional, you can just reinstall from store)
 On SideQuest, choose the 9 dots.\
@@ -141,12 +143,15 @@ It should now have your mod installed. Amazing work!
 
 # Skin Installation
 
+## QSabers worked best for me! You need the mod though, check the install qsabers for it!
+
 Most used. There are not many mods for the Quest(at least from what I can see).
 
 
 In reality, it is basically the same as installing mods. They even come in same zip.
 
 ## Easy installing skins
+
 
 This will not work with QSabers, and if something fails to enable, press the back arrow at the bottom.
 
@@ -158,7 +163,22 @@ Done!
 
 ## Installing QSabers
 
+
+
+
 QSabers are installed by installing the quest CustomSabers mod. I will include a link
+
+BMBF Users: https://github.com/beatsabermoddingquest/BMBFCustomSabers/blob/master/QSabers/Chara's%20QSabers/ALL%20OF%20THESE%20SABERS%20REQUIRE%20THIS%20MOD!/CustomSabers.zip
+I don't know if this works for BeatON, someone please raise issue about this if it doesn't.
+
+Install this zip, then your QSaber zip, sync to beatsaber, and done!
+
+
+
+
+
+
+
 
 
 
