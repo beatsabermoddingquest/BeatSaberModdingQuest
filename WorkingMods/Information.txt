@@ -1,0 +1,3 @@
+This is a compiled list of mods that work with my version of BMBF.
+For Resources: Check the ResourcesBMBF or ResourcesBeatOn folders depending on your version.
+Mods are found from bsaber.com.
