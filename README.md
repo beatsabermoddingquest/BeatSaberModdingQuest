@@ -176,6 +176,64 @@ Install this zip, then your QSaber zip, sync to beatsaber, and done!
 
 
 
+# Troubleshooting
+
+Shoot! If your here, BMBF/BeatOn has failed :(.
+
+
+## I can't figure out how to make an organazation
+
+Yeah, that part is tough. You may want to look it up. Raise and issue and I will update the guide.
+
+## Is this safe?
+
+Yes! I have tested and it works for me.\
+ONLY DOWNLOAD FROM THE OFFICIAL SOURCES, OR IT MAY HARM YOUR DEVICE.\
+DISCLAIMER: I am not responsible for any of your fails/breaking your device/thermonuclear war.\
+
+## SideQuest has updated/deleted/modified and I don't know what to do!
+
+LOOK AT THE BOTTOM OF THE GUIDE!
+
+## BMBF/BeatOn is stuck at Loading Configuration
+
+URGH! That happened to me too! If you are using BMBF, make sure you are the latest ver. BeatOn, I recommend switching to BMBF.
+
+## My IP address will not load!
+
+In the Tools section, look at the top right. It should have your IP there. If not, check your quest is connected to PC.
+
+Use the mod's built-in browser to download your mods! 
+
+# Alternate Method to use instead of SideQuest
+
+Ok, sorry to hear that did not work out!\
+First, download the platform-tools from this link and save in downloads:
+
+[Download Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+
+## Cant find? Search the page! 
+
+Create a folder in your downloads, and call it platform-tools. Extract the file to it.
+
+
+
+Press Windows Key and R, and enter cmd in the box that pops up.\
+Open Terminal for mac/linux
+Type in cd Downloads and press enter.\
+Type in cd platform-tools and press enter.\
+Try typing adb and pressing enter, if it has lots of text or Daemon Starting, good job!\
+If not, type in dir(ls for mac/linux) and press enter. It should have a folder underneath the . and ..\
+Type cd *folder name* and enter.\
+Connect your Quest to your PC, or use the WIFI instructions(adb connect *quest ip here*)\
+Go onto your Quest and trust the computer.\
+Make sure you copy the BMBF apk [Download](bmbf.dev/nightly) from the zip into the extracted folder!\
+After checking your Quest is connected properly, type adb devices and do enter.\
+If it pops up with a device, great! If not, look it up!\
+Type 'adb install com." and press tab. It should auto fill the APK file name. If not, check that the apk is in the folder!\
+If it does a Success, your done! Continue the install!
+
+
 
 
 
